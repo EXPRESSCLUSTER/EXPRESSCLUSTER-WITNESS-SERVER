@@ -5,5 +5,4 @@ This repository contains a step-by-step Quick Start Guide (QSG) for setting up a
 
 ## Knowledge about Witness Server
 
-- [How to setup Witness Server](/https://github.com/EXPRESSCLUSTER/EXPRESSCLUSTER-WITNESS-SERVER/blob/Witness-ECX-patch-1/ECX-Witness-Windows.md)
-
+- [How to setup Witness Server](ECX-Witness-Windows.md)
